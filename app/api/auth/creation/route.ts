@@ -32,5 +32,5 @@ export async function GET() {
     });
   }
 
-  return NextResponse.redirect("https://localhoast:3000");
+  return NextResponse.redirect("https://bookingbeardev.vercel.app");
 }
